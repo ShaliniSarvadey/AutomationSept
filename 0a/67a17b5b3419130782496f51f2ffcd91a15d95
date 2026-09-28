@@ -1,0 +1,31 @@
+Chapter_04_Operators.js/27_assignment.js
+  h_34672fd9e7f911 1-5
+Chapter_05_Statements/Grade_Calc.js
+  s_bf54d583d0f016::t_b8cf58ec46e3b8 1
+  s_bf54d583d0f016::t_26e210daf990c7 2-15
+Chapter_05_Statements/_IQ.js
+  h_34672fd9e7f911 1-9
+Chapter_05_Statements/Logical_OP_If_else.js
+  h_34672fd9e7f911 1-16
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "0a67a17b5b3419130782496f51f2ffcd91a15d95",
+  "prompts": {},
+  "humans": {
+    "h_34672fd9e7f911": {
+      "author": "ShaliniSarvadey <shalsmailid@gmail.com>"
+    }
+  },
+  "sessions": {
+    "s_bf54d583d0f016": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "8c1c82f6-f6c9-4dda-a9ac-5470f337ccdd",
+        "model": "gpt-5.6-luna"
+      },
+      "human_author": "ShaliniSarvadey <shalsmailid@gmail.com>"
+    }
+  }
+}
