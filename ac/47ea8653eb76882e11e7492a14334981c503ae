@@ -1,0 +1,20 @@
+Chapter06_Switch_Statements/Switch_Ex1.js
+  h_34672fd9e7f911 1
+Chapter06_Switch_Statements/42_Switch.js
+  h_34672fd9e7f911 1-23
+Chapter06_Switch_Statements/44_DefaultSwitch.js
+  h_34672fd9e7f911 1-23
+Chapter06_Switch_Statements/43_SwitchwithOutBreak.js
+  h_34672fd9e7f911 1-23
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "ac47ea8653eb76882e11e7492a14334981c503ae",
+  "prompts": {},
+  "humans": {
+    "h_34672fd9e7f911": {
+      "author": "ShaliniSarvadey <shalsmailid@gmail.com>"
+    }
+  }
+}
