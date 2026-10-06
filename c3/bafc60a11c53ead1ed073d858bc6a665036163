@@ -1,0 +1,55 @@
+Chapter_07_loops/53_forLoops.js
+  h_34672fd9e7f911 1-17
+Chapter_09_Functions/77_Type2_WithArgsNoreture.js
+  h_34672fd9e7f911 1-8
+Chapter_09_Functions/Multiline.js
+  h_34672fd9e7f911 1-6
+Chapter_09_Functions/79_Type3_WithoutARg_ButReturn.js
+  h_34672fd9e7f911 1-6
+Chapter_09_Functions/91_return_Fn.js
+  h_34672fd9e7f911 1-7
+Chapter_09_Functions/91_Hoisting.js
+  h_34672fd9e7f911 1-2
+Chapter_09_Functions/77_Basic_Functions.js
+  h_34672fd9e7f911 1-8
+Chapter_09_Functions/81_Ex.js
+  h_34672fd9e7f911 1-5
+Chapter_09_Functions/84_APITest.js
+  h_34672fd9e7f911 1-25
+Chapter_09_Functions/85_IQ.js
+  h_34672fd9e7f911 1-8
+Chapter_09_Functions/90_Spread.js
+  h_34672fd9e7f911 1-7
+Chapter_09_Functions/80_WithAg_Withretur.js
+  h_34672fd9e7f911 1-10
+.gitignore
+  s_f53ba37017a955::t_34df76d6558361 1-2
+package-lock.json
+  h_4176ba5029a34c 1-39
+package.json
+  h_4176ba5029a34c 1-24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "c3bafc60a11c53ead1ed073d858bc6a665036163",
+  "prompts": {},
+  "humans": {
+    "h_34672fd9e7f911": {
+      "author": "ShaliniSarvadey <shalsmailid@gmail.com>"
+    },
+    "h_4176ba5029a34c": {
+      "author": "ShaliniSarvadey <ssarvadey@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_f53ba37017a955": {
+      "agent_id": {
+        "tool": "github-copilot",
+        "id": "742e1b6f-23a7-4b07-a024-c921e89483eb",
+        "model": "mai-code-1.1-flash"
+      },
+      "human_author": "ShaliniSarvadey <ssarvadey@users.noreply.github.com>"
+    }
+  }
+}
