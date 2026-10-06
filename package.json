@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "playwright": "^1.63.0"
+  },
+  "name": "automationsept",
+  "version": "1.0.0",
+  "main": "Chapter_04_Operators.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShaliniSarvadey/AutomationSept.git"
+  },
+  "author": "Shalini Sarvadey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShaliniSarvadey/AutomationSept/issues"
+  },
+  "homepage": "https://github.com/ShaliniSarvadey/AutomationSept#readme",
+  "description": ""
+}
+ 
