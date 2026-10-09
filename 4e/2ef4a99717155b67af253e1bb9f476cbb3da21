@@ -1,0 +1,29 @@
+Practiseselt.js/Self.js
+  h_4176ba5029a34c 1-39
+Chapter_09_Functions/94_Closures.js
+  h_4176ba5029a34c 1-55
+Strings/Strings_Transforming.js
+  h_4176ba5029a34c 1-15
+Strings/Strings_search_Check.js
+  h_4176ba5029a34c 1-12
+Strings/Strings_Properities.js
+  h_4176ba5029a34c 1-3
+Chapter_09_Functions/91_Return.js
+  h_4176ba5029a34c 1-33
+Chapter_09_Functions/90.spread.js
+  h_4176ba5029a34c 1-12
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "4e2ef4a99717155b67af253e1bb9f476cbb3da21",
+  "prompts": {},
+  "humans": {
+    "h_34672fd9e7f911": {
+      "author": "ShaliniSarvadey <shalsmailid@gmail.com>"
+    },
+    "h_4176ba5029a34c": {
+      "author": "ShaliniSarvadey <ssarvadey@users.noreply.github.com>"
+    }
+  }
+}
